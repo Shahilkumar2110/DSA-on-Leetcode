@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0071-simplify-path) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2103-rings-and-rods](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2103-rings-and-rods) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
