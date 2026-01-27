@@ -87,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
