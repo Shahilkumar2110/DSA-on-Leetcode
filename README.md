@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2103-rings-and-rods](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2103-rings-and-rods) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
