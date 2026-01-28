@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0001-two-sum) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2103-rings-and-rods](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2103-rings-and-rods) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0035-search-insert-position) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Tree
 |  |
 | ------- |
