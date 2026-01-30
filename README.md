@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0223-rectangle-area) |
+| [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0836-rectangle-overlap](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0836-rectangle-overlap) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0071-simplify-path) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Enumeration
