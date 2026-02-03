@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
