@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
