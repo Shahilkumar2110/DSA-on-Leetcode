@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -198,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
