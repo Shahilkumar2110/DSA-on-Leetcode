@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
