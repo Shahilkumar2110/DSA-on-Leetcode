@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0071-simplify-path) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
