@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0055-jump-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0071-simplify-path) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
