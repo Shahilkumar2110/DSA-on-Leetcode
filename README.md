@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
 |  |
 | ------- |
