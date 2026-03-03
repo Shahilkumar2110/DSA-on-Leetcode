@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
