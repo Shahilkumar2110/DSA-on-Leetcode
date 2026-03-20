@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
