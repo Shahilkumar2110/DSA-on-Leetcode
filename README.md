@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search Tree
 |  |
 | ------- |
