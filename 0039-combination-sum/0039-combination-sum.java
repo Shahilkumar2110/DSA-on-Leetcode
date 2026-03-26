@@ -22,7 +22,7 @@ class Solution {
         }
 
         curr.add(arr[index]);
-        funct(arr,target-arr[index], index+1, result, curr);
+        // funct(arr,target-arr[index], index+1, result, curr);
         funct(arr,target-arr[index],index, result,curr);
         curr.remove(curr.size()-1);
         funct(arr,target,index+1,result,curr);
