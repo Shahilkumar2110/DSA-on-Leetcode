@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2103-rings-and-rods](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2103-rings-and-rods) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Simulation
 |  |
 | ------- |
