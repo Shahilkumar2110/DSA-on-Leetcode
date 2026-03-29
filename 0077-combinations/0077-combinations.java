@@ -10,7 +10,8 @@ class Solution {
     }
     void funct(int[] arr, int index, List<List<Integer>> result, List<Integer> curr,int target){
 
-        if(curr.size()==target) result.add(new ArrayList<>(curr));
+        if(curr.size()==target){ result.add(new ArrayList<>(curr));
+        return;}
 
         for(int i=index;i<arr.length;i++){
             curr.add(arr[i]);
