@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0476-number-complement) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0113-path-sum-ii) |
