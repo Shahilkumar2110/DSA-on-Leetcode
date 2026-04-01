@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0216-combination-sum-iii) |
 ## String Matching
 |  |
 | ------- |
