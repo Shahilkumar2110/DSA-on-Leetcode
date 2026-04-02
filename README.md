@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0143-reorder-list) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0171-excel-sheet-column-number) |
