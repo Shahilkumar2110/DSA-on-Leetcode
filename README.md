@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
 |  |
