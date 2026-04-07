@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
