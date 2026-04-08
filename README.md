@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
