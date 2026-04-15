@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
