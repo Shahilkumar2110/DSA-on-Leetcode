@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search Tree
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Iterator
 |  |
 | ------- |
