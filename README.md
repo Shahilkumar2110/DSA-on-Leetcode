@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -540,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |
