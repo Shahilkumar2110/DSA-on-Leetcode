@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0605-can-place-flowers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
