@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
