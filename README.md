@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0049-group-anagrams) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
