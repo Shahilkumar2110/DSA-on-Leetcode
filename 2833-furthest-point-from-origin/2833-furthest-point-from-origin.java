@@ -16,11 +16,7 @@ class Solution {
                 sym++;
             }
         }
-        if(right==left){
-            return sym;
-        }else if(right>left){
-            return Math.abs(right+sym-left);
-        }
+        
         return Math.abs(right - left) + sym;
 
 
