@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
@@ -599,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0200-number-of-islands) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
