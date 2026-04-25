@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
