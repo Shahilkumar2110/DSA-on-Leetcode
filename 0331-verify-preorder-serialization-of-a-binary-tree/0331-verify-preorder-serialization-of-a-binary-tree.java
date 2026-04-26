@@ -16,6 +16,7 @@ class Solution {
             if (ch.equals("#")) {
                 if (st.isEmpty()) return i == arr.length - 1;
                 st.peek().child++;
+                if(st.peek().child==2) return false;
             } else {
                 st.push(new pair(0)); 
             }
