@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -615,9 +617,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0319-bulb-switcher) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
