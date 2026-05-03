@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2103-rings-and-rods](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2103-rings-and-rods) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0796-rotate-string) |
 ## Bucket Sort
 |  |
 | ------- |
