@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0319-bulb-switcher) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## String Matching
 |  |
 | ------- |
