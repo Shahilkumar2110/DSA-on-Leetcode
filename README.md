@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2942-find-words-containing-character) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
 | ------- |
