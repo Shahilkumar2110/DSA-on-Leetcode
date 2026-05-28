@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int count;
+    private int count;
     public int findTilt(TreeNode root) {
         funct(root);
         return count;
