@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2942-find-words-containing-character) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
