@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0687-longest-univalue-path) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0687-longest-univalue-path) |
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0687-longest-univalue-path) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Prefix Sum
 |  |
