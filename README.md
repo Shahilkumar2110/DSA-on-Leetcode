@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
