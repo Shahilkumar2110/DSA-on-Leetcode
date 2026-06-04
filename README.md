@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
 |  |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
