@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
