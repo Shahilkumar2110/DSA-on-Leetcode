@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0796-rotate-string) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1871-jump-game-vii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Prefix Sum
 |  |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## String Matching
 |  |
 | ------- |
