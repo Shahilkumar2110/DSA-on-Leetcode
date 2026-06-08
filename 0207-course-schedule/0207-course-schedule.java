@@ -22,8 +22,10 @@ class Solution {
             }
         }
 
+        int count=0;
         while(!q.isEmpty()){
             int node=q.poll();
+            count++;
 
             for(int i=0;i<graph.get(node).size();i++){
                 indegree[graph.get(node).get(i)]--;
@@ -33,12 +35,7 @@ class Solution {
             }
         }
 
-        for(int i:indegree){
-            if(i!=0){
-                return false;
-            }
-        }
-        return true;
+        return count==numCourses;
 
     }
 }
