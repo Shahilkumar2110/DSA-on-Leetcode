@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0547-number-of-provinces](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Brainteaser
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0547-number-of-provinces](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Randomized
 |  |
