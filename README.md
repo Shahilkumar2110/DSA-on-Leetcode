@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0919-complete-binary-tree-inserter) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0851-loud-and-rich) |
 ## Randomized
 |  |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0851-loud-and-rich) |
 ## Eulerian Circuit
 |  |
