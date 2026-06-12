@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Randomized
 |  |
 | ------- |
