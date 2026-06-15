@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0506-relative-ranks) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
