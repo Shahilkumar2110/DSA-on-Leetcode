@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Enumeration
 |  |
