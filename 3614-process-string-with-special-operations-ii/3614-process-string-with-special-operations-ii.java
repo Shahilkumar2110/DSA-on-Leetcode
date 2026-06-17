@@ -2,8 +2,6 @@ class Solution {
     public char processStr(String s, long k) {
 
         long len = 0;
-
-        // Find final length
         for (char ch : s.toCharArray()) {
 
             if (ch == '*') {
@@ -13,7 +11,6 @@ class Solution {
                 len *= 2;
             }
             else if (ch == '%') {
-                // length unchanged
             }
             else {
                 len++;
@@ -22,7 +19,6 @@ class Solution {
 
         if (k >= len) return '.';
 
-        // Reverse simulation
         for (int i = s.length() - 1; i >= 0; i--) {
 
             char ch = s.charAt(i);
