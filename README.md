@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1871-jump-game-vii) |
 ## Linked List
 |  |
