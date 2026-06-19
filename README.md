@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1512-number-of-good-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1512-number-of-good-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2103-rings-and-rods](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2103-rings-and-rods) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1512-number-of-good-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1512-number-of-good-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
