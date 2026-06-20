@@ -1,67 +1,59 @@
 class Solution {
-    int result=0;
+
+    int result = 0;
+
     public int reversePairs(int[] nums) {
-        divide(0,nums.length-1,nums);
+        divide(0, nums.length - 1, nums);
         return result;
     }
-    void divide(int start, int end, int[] nums){
-        if(start>=end) return;
-        int mid=start+(end-start)/2;
+
+    void divide(int start, int end, int[] nums) {
+
+        if (start >= end) return;
+
+        int mid = start + (end - start) / 2;
+
         divide(start, mid, nums);
-        divide(mid+1, end, nums);
+        divide(mid + 1, end, nums);
+
+        int j = mid + 1;
 
         for (int i = start; i <= mid; i++) {
-            int j = mid + 1;
-
             while (j <= end && (long) nums[i] > 2L * nums[j]) {
-                 j++;
+                j++;
             }
-
             result += j - (mid + 1);
-        }       
+        }
 
-        merge(start, mid, end ,nums);
+        merge(start, mid, end, nums);
     }
-    void merge(int start, int mid, int end , int[] nums){
 
-        int n=mid-start+1;
-        int m=end-mid;
+    void merge(int start, int mid, int end, int[] nums) {
 
-        int[] nums1=new int[n];
-        int[] nums2=new int[m];
+        int[] temp = new int[end - start + 1];
 
-        int index=start;
+        int i = start;
+        int j = mid + 1;
+        int k = 0;
 
-        for(int i=0;i<n;i++){
-            nums1[i]=nums[index++];
-        }
-        for(int i=0;i<m;i++){
-            nums2[i]=nums[index++];
-        }
-
-        int i=0;
-        int j=0;
-        index=start;
-
-        while(i<n && j<m){
-            if(nums1[i]<nums2[j]){
-                nums[index++]=nums1[i++];
-            }else{
-                nums[index++]=nums2[j++];
+        while (i <= mid && j <= end) {
+            if (nums[i] <= nums[j]) {
+                temp[k++] = nums[i++];
+            } else {
+                temp[k++] = nums[j++];
             }
         }
 
-        while(i<n){
-            nums[index++]=nums1[i++];
+        while (i <= mid) {
+            temp[k++] = nums[i++];
         }
 
-        while(j<m){
-            nums[index++]=nums2[j++];
+        while (j <= end) {
+            temp[k++] = nums[j++];
         }
 
-
-
-
-
+        for (int p = 0; p < temp.length; p++) {
+            nums[start + p] = temp[p];
+        }
     }
 }
