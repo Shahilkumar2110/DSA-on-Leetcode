@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0506-relative-ranks) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0836-rectangle-overlap](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0836-rectangle-overlap) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1871-jump-game-vii) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Trie
 |  |
 | ------- |
@@ -943,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Sliding Window
 |  |
 | ------- |
@@ -981,4 +987,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0493-reverse-pairs) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
