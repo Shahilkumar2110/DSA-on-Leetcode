@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0605-can-place-flowers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Data Stream
 |  |
 | ------- |
