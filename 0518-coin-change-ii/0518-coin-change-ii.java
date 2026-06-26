@@ -9,28 +9,39 @@ class Solution {
 
         // return traversal(0,0,amount,coins,dp);
 
-        int n=coins.length;
-        int[][] dp=new int[n+1][amount+1];
-        for(int i=0;i<=n;i++){
-            dp[i][0]=1;
-        }
+        // int n=coins.length;
+        // int[][] dp=new int[n+1][amount+1];
+        // for(int i=0;i<=n;i++){
+        //     dp[i][0]=1;
+        // }
 
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<=amount;j++){
+        // for(int i=n-1;i>=0;i--){
+        //     for(int j=0;j<=amount;j++){
 
-                int nottake=dp[i+1][j];
+        //         int nottake=dp[i+1][j];
 
-                int take=0;
-                if(j>=coins[i]){
-                    take=dp[i][j-coins[i]];
-                }
-                dp[i][j]=take+nottake;
+        //         int take=0;
+        //         if(j>=coins[i]){
+        //             take=dp[i][j-coins[i]];
+        //         }
+        //         dp[i][j]=take+nottake;
  
+        //     }
+        // }
+        // return dp[0][amount];
+
+
+
+        int n=coins.length;
+        int[] dp=new int[amount+1];
+        dp[0]=1;
+
+        for(int i=0;i<n;i++){
+            for(int j=coins[i];j<=amount;j++){
+                dp[j]+=dp[j-coins[i]];
             }
         }
-        return dp[0][amount];
-
-
+        return dp[amount];
 
     }
 
