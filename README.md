@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0016-3sum-closest) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0053-maximum-subarray) |
