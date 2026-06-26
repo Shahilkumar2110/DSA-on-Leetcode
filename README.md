@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0605-can-place-flowers) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0565-array-nesting) |
 | [0617-merge-two-binary-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0655-print-binary-tree) |
