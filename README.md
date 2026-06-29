@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0120-triangle) |
@@ -1026,4 +1028,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
