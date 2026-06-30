@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0101-symmetric-tree) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0101-symmetric-tree) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
