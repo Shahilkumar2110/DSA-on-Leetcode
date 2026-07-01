@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0229-majority-element-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0413-arithmetic-slices) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -994,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1057,4 +1063,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
