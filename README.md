@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0228-summary-ranges) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0198-house-robber) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
