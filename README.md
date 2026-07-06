@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1288-remove-covered-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
