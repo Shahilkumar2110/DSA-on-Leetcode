@@ -1,7 +1,7 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int[][][] dp=new int[n+1][2][3];
+        int[][] dp=new int[2][3];
 
         // for(int[][] i:dp){
         //     for(int[] ele:i){
@@ -13,19 +13,21 @@ class Solution {
 
 
         for(int ind=n-1;ind>=0;ind--){
+            int[][] curr=new int[2][3];
             for(int trans=2;trans>0;trans--){
                 for(int buy=1;buy>=0;buy--){
 
                     if(buy==1){
-                        dp[ind][buy][trans]=Math.max(-prices[ind]+dp[ind+1][0][trans],dp[ind+1][1][trans]);
+                        curr[buy][trans]=Math.max(-prices[ind]+dp[0][trans],dp[1][trans]);
                     }else{
-                        dp[ind][buy][trans]=Math.max(prices[ind]+dp[ind+1][1][trans-1],dp[ind+1][0][trans]);
+                        curr[buy][trans]=Math.max(prices[ind]+dp[1][trans-1],dp[0][trans]);
                     }
 
                 }
             }
+            dp=curr;
         }
-        return dp[0][1][2];
+        return dp[1][2];
 
     }
     // int funct(int ind,int buy,int trans,int[] prices,int[][][] dp){
