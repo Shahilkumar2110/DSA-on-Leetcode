@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0165-compare-version-numbers) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0152-maximum-product-subarray) |
