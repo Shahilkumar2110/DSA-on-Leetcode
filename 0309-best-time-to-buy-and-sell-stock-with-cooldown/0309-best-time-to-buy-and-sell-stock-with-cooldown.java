@@ -1,0 +1,26 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int n=prices.length;
+
+        int[][] dp=new int[n][2];
+        
+            for(int[] ele:dp){
+                Arrays.fill(ele,-1);
+            }
+        
+        return funct(0,1,prices,dp);
+    }
+    int funct(int ind, int buy,int[] prices, int[][] dp){
+
+        if(ind>=prices.length) return 0;
+
+        if(dp[ind][buy]!=-1) return dp[ind][buy];
+
+        if(buy==1){
+            return dp[ind][buy]=Math.max(-prices[ind]+funct(ind+1,0,prices,dp),funct(ind+1,1,prices,dp));
+        }
+        return dp[ind][buy]=Math.max(prices[ind]+funct(ind+2,1,prices,dp),funct(ind+1,0,prices,dp));
+
+
+    }
+}
