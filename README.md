@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0537-complex-number-multiplication](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0541-reverse-string-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0796-rotate-string) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1871-jump-game-vii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1871-jump-game-vii) |
 ## Matrix
