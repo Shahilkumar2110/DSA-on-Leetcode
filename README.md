@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Prefix Sum
 |  |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
