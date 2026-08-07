@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1288-remove-covered-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Topological Sort
 |  |
 | ------- |
