@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0622-design-circular-queue) |
 | [0919-complete-binary-tree-inserter](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 ## Iterator
 |  |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0622-design-circular-queue) |
 ## Counting Sort
 |  |
 | ------- |
