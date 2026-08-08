@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## String Matching
@@ -1203,4 +1207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
