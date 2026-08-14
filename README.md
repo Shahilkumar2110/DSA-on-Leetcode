@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1476-subrectangle-queries](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1476-subrectangle-queries) |
 | [1512-number-of-good-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0498-diagonal-traverse) |
+| [1476-subrectangle-queries](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0622-design-circular-queue) |
 | [0919-complete-binary-tree-inserter](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0919-complete-binary-tree-inserter) |
+| [1476-subrectangle-queries](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1476-subrectangle-queries) |
 ## Iterator
 |  |
 | ------- |
