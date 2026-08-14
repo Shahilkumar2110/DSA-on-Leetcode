@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0986-interval-list-intersections](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0986-interval-list-intersections](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0986-interval-list-intersections) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1229,4 +1231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0526-beautiful-arrangement) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
