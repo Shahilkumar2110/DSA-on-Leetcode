@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0441-arranging-coins](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
