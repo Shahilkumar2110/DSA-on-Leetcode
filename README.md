@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0690-employee-importance) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0817-linked-list-components) |
+| [0859-buddy-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0859-buddy-strings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1048-longest-string-chain) |
