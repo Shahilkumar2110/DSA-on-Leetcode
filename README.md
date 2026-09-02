@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0493-reverse-pairs) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -996,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0435-non-overlapping-intervals) |
