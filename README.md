@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Geometry
 |  |
 | ------- |
