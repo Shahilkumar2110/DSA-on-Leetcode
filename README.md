@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0275-h-index-ii) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0622-design-circular-queue) |
 ## Counting Sort
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1308,4 +1312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0204-count-primes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
