@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
