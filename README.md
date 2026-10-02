@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0817-linked-list-components](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0817-linked-list-components) |
+| [0827-making-a-large-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0851-loud-and-rich) |
 | [0881-boats-to-save-people](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0827-making-a-large-island) |
 | [1476-subrectangle-queries](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
