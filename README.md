@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Math
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Tree
 |  |
 | ------- |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1871-jump-game-vii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Matrix
 |  |
 | ------- |
