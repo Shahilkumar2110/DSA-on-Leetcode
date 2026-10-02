@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Greedy
 |  |
 | ------- |
