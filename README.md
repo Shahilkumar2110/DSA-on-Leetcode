@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Monotonic Stack
 |  |
 | ------- |
