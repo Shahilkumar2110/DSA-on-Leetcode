@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1048-longest-string-chain) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0827-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
