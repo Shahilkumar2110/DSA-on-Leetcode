@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0859-buddy-strings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -1405,4 +1407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
