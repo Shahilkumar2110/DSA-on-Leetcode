@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3637-trionic-array-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shahilkumar2110/DSA-on-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Counting
 |  |
 | ------- |
